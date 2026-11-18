@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Newluk
-- 👀 I’m interested in gaming and developing
-- 🌱 I’m currently learning how to properly use git and github 😛
-- 💞️ I’m looking to collaborate on smal projectas to gain more expirience in programing
-- 📫 How to reach me? E-mail (lucas.a.vomero@gmail.com)
+-  Hi, I’m @Newluk
+-  I’m interested in gaming and developing
+-  I’m currently learning how to properly use git and github
+-  I’m looking to collaborate on smal projectas to gain more expirience in programing
 
 <!---
 Newluk/Newluk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
